@@ -24,9 +24,7 @@ This repository contains a Python script that fetches live cryptocurrency data f
 3. **Live Updating Excel Sheet**
    - Updates data every 5 minutes.
    - Includes detailed information and analysis sections.
-
-4. **Cloud Sharing**
-   - The Excel file can be uploaded to Google Drive, OneDrive, or SharePoint for sharing and collaboration.
+     
 
 ## Requirements
 
