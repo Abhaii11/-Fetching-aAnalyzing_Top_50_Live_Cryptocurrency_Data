@@ -46,7 +46,7 @@ pip install requests openpyxl pandas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhaii11/crypto-live-data.git
+   git clone git@github.com:Abhaii11/-Fetching-aAnalyzing_Top_50_Live_Cryptocurrency_Data.git
    cd crypto-live-data
    ```
 
@@ -93,6 +93,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, feel free to contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Name**: Abhay Ramchandra Raut
+- **Email**: rautabhay66@gmail.com
+- **GitHub**: [Abhaii11](https://github.com/Abhaii11)
